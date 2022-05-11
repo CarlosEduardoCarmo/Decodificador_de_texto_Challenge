@@ -25,7 +25,7 @@ body{
     position: relative;
     margin-top: 20px;
     margin-left: 90px;
-    background-image:url("/imagens/fundomensagem.png");
+    background-image:url("../imagens/fundomensagem.png");
     background-repeat: no-repeat;
     background-position: 100%;
     
