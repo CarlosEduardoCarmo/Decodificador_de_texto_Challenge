@@ -1,0 +1,68 @@
+*{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+
+}
+.img-logo{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+body{
+    background-color: #F3F5FC;
+}
+.main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.input-texto{
+    margin-top: 90px;
+}
+.mensagem{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 90px;
+    background-image:url("/imagens/fundomensagem.png");
+    background-repeat: no-repeat;
+    background-position: 100%;
+    
+}
+.botoes{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    
+}
+.informacao{
+    font-size: 15px;
+}
+.encriptar{
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+}
+.desencriptar{
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.copiar{
+    display: flex;
+    border-radius: 7px;
+    background-color: #020e3a;
+    color: rgb(250, 250, 252);
+    margin-left: 165px;
+}
+footer{
+    text-align: center;
+    background: rgba(97, 97, 179, 0.932) ;
+    padding: 40px 0;
+}
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
